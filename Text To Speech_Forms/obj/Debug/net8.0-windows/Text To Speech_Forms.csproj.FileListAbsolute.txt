@@ -1,0 +1,21 @@
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\bin\Debug\net8.0-windows\Text To Speech_Forms.exe
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\bin\Debug\net8.0-windows\Text To Speech_Forms.deps.json
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\bin\Debug\net8.0-windows\Text To Speech_Forms.runtimeconfig.json
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\bin\Debug\net8.0-windows\Text To Speech_Forms.dll
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\bin\Debug\net8.0-windows\Text To Speech_Forms.pdb
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\Text_To_Speech_Forms.TextToSpeech.resources
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\Text To Speech_Forms.csproj.GenerateResource.cache
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\Text To Speech_Forms.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\Text To Speech_Forms.AssemblyInfoInputs.cache
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\Text To Speech_Forms.AssemblyInfo.cs
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\Text To Speech_Forms.csproj.CoreCompileInputs.cache
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\Text To Speech_Forms.dll
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\refint\Text To Speech_Forms.dll
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\Text To Speech_Forms.pdb
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\Text To Speech_Forms.genruntimeconfig.cache
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\ref\Text To Speech_Forms.dll
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\bin\Debug\net8.0-windows\System.Speech.dll
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\Text To Speech_Forms.csproj.AssemblyReference.cache
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\Text To .F2772CFB.Up2Date
+G:\Studies\Text To Speech_Forms\Text To Speech_Forms\obj\Debug\net8.0-windows\Text_To_Speech_Forms.Properties.Resources.resources
